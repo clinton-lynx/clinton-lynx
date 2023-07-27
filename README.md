@@ -38,6 +38,11 @@ I'm Clinton Adeoti a Frontend Web Developer and Web3 Enthusiast. I spend most of
   </tr>
   <tr>
     <td>
+      <a href="https://github.com/clinton-lynx/TURBO_VIEWS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=clinton-lynx&repo=linkify" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="https://github.com/clinton-lynx/homeplus"><img src="https://github-readme-stats.vercel.app/api/pin/?username=clinton-lynx&repo=homeplus" /></a>
     </td>
   </tr>
